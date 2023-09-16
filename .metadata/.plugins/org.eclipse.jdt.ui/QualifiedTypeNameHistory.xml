@@ -4,4 +4,6 @@
     <fullyQualifiedTypeName name="study.Test"/>
     <fullyQualifiedTypeName name="algorithm.Main"/>
     <fullyQualifiedTypeName name="algorithm.Test"/>
+    <fullyQualifiedTypeName name="level1.FindTheAverage"/>
+    <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
 </qualifiedTypeNameHistroy>
