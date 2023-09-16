@@ -6,8 +6,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		SumOfDivisors sumofdivisors = new SumOfDivisors();
-		sumofdivisors.SumOfDivisors();
+		FindTheAverage findTheAverage = new FindTheAverage();
+		findTheAverage.FindTheAverage();
 
 	}
 
